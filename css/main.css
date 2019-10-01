@@ -130,6 +130,9 @@ input[class^="btn-"]:hover {
 .m-2 {
   margin: 2rem;
 }
+.mr-8 {
+  margin-right: 8rem;
+}
 .oringe {
   color: #e53c1f;
 }
@@ -163,14 +166,17 @@ input[class^="btn-"]:hover {
 }
 .clear {
   clear: both;
+  margin-left: 8rem;
 }
 
 .img-list {
   display: inline-block;
-  margin: 10rem;
+  margin: 10rem 5rem 10rem 20rem;
 }
 
-.img-list .lead{color: #ffbc00}
+.img-list .lead {
+  color: #ffbc00;
+}
 
 hr.style14 {
   border: 0;
@@ -430,7 +436,7 @@ img {
 
 #about-c .about-logos {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-gap: 2rem;
 }
 #about-c .about-logos img {
@@ -531,6 +537,9 @@ img {
   }
   .h-primary {
     display: none;
+  }
+  .img-list {
+    margin: 0rem 5rem 1rem;
   }
 }
 
