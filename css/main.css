@@ -30,6 +30,7 @@
 .btn-light {
   color: #333;
   background-color: #f4f4f4;
+  border-radius: 50px;
 }
 
 .btn-dark {
@@ -123,6 +124,12 @@ input[class^="btn-"]:hover {
 .ml-10 {
   margin-left: 40rem;
 }
+.m-1 {
+  margin: 1rem;
+}
+.m-2 {
+  margin: 2rem;
+}
 .oringe {
   color: #e53c1f;
 }
@@ -146,6 +153,21 @@ input[class^="btn-"]:hover {
 }
 .git {
   color: #000;
+}
+
+.flo-r {
+  float: right;
+}
+.flo-l {
+  float: left;
+}
+.clear {
+  clear: both;
+}
+
+.img-list {
+  display: inline-block;
+  margin: 10rem;
 }
 
 hr.style14 {
@@ -375,6 +397,7 @@ img {
   border-bottom: #ffbc00 solid 3px;
   margin-bottom: 2rem;
 }
+
 #home-c .process-icon:hover {
   background: #ffbc00;
   width: 90px;
