@@ -127,11 +127,14 @@ input[class^="btn-"]:hover {
 .m-1 {
   margin: 1rem;
 }
-.m-2 {
-  margin: 2rem;
+.m-5 {
+  margin: 5rem;
 }
 .mr-8 {
   margin-right: 8rem;
+}
+.mr-5 {
+  margin-right: 5rem;
 }
 .oringe {
   color: #e53c1f;
@@ -166,12 +169,14 @@ input[class^="btn-"]:hover {
 }
 .clear {
   clear: both;
-  margin-left: 8rem;
+}
+.card-5 {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
 
 .img-list {
   display: inline-block;
-  margin: 10rem 5rem 10rem 20rem;
+  /* margin: 10rem 5rem 10rem 20rem; */
 }
 
 .img-list .lead {
@@ -195,6 +200,7 @@ hr.style14 {
   text-align: center;
   font-weight: 100;
   text-transform: uppercase;
+  margin-top: 2rem;
 }
 
 .bottom-line {
@@ -291,7 +297,7 @@ img {
 }
 #main-nav a {
   text-decoration: none;
-  color: #fff;
+  color: #5f6769;
   text-transform: uppercase;
   border-bottom: 3px transparent solid;
   padding-bottom: 0.5rem;
