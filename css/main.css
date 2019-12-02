@@ -157,8 +157,14 @@ input[class^="btn-"]:hover {
 .react {
   color: #6cd5ff;
 }
+.redux {
+  color: #6915cf;
+}
 .git {
   color: #000;
+}
+.node {
+  color: #71a95a;
 }
 
 .flo-r {
@@ -172,6 +178,11 @@ input[class^="btn-"]:hover {
 }
 .card-5 {
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+.flx {
+  display: flex;
+  justify-content: space-around;
 }
 
 .img-list {
@@ -194,18 +205,18 @@ hr.style14 {
 }
 
 .section-title {
-  font-size: 2rem;
+  font-size: 20px;
   display: block;
   padding-bottom: 0.5rem;
   text-align: center;
   font-weight: 100;
-  text-transform: uppercase;
+
   margin-top: 2rem;
 }
 
 .bottom-line {
-  height: 2px;
-  width: 3rem;
+  height: 3px;
+  width: 6rem;
   background: #ffbc00;
   display: block;
   margin: 0 auto 2rem auto;
