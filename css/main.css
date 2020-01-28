@@ -74,6 +74,10 @@ input[class^="btn-"]:hover {
   text-align: center;
 }
 
+.p-3 {
+  padding: 3rem;
+}
+
 .pt-2 {
   padding-top: 2rem;
 }
@@ -135,36 +139,6 @@ input[class^="btn-"]:hover {
 }
 .mr-5 {
   margin-right: 5rem;
-}
-.oringe {
-  color: #e53c1f;
-}
-.blue {
-  color: #426ef0;
-}
-.sass {
-  color: #ce72a1;
-}
-.bootstrap {
-  color: #6e326e;
-}
-.js {
-  color: #f6c126;
-}
-.jq {
-  color: #2e4da8;
-}
-.react {
-  color: #6cd5ff;
-}
-.redux {
-  color: #6915cf;
-}
-.git {
-  color: #000;
-}
-.node {
-  color: #71a95a;
 }
 
 .flo-r {
